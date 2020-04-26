@@ -1,0 +1,68 @@
+/* Mulai code Anda dari baris terakhir */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+  background-color: #dfe6e9;
+
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: blue;
+
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+
+.copy {
+  text-align: right;
+  color: black;
+  font-size: 11px;
+  font-family: "Comic Sans MS";
+  padding: 0 5px;
+  padding-top: 20px;
+  padding-bottom: 3px;
+
+}
+
+.power {
+  float: left;
+  color: black;
+  font-size: 11px;
+  font-family: "Comic Sans MS";
+  padding: 0 5px;
+  padding-top: 20px;
+  padding-bottom: 3px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 9px;
+  background-color: #95afc0;
+  }
